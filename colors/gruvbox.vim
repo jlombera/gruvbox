@@ -1346,10 +1346,10 @@ hi! link haskellBacktick haskellOperators
 
 hi! link haskellStatement GruvboxOrange
 
-hi! link haskellConditional GruvboxRed
-hi! link haskellKeyword GruvboxRed
-hi! link haskellLet GruvboxRed
-hi! link haskellWhere GruvboxRed
+hi! link haskellConditional GruvboxOrange
+hi! link haskellKeyword GruvboxOrange
+hi! link haskellLet GruvboxOrange
+hi! link haskellWhere GruvboxOrange
 
 hi! link haskellDefault GruvboxAqua
 hi! link haskellBottom GruvboxAqua
